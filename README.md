@@ -28,7 +28,7 @@ Antes de rodar o projeto, você precisa ter:
 Execute o script de coleta para buscar os repositórios mais populares e salvar em CSV:
 
 ```
-python coleta_repositorios.py
+python lab01_sprint1.py
 ```
 
 Isso vai gerar o arquivo:
